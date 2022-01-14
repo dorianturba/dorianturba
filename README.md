@@ -1,5 +1,22 @@
 ### Hi there 👋
+### What I do
 
+🔭 I’m currently working on 
+a freelance project (API),
+[Meteor](https://github.com/Vikka/Meteor), 
+Option Pricer, 
+and [Terazur Engine](https://github.com/Vikka/TerazurEngine).
+
+🌱 I’m currently learning API design and development with FastAPI, SQLAlchemy, Alembic and python-jose.
+
+🧭 Where to find me: 
+[Linkedin](https://www.linkedin.com/in/dorian-turba/), 
+[StackOverflow](https://stackoverflow.com/users/6251742/dorian-turba),
+[Twitter](https://twitter.com/grenouille_py)
+
+### Who I am
+
+I'm a french dad passionnate about my daughter ❤️, rpg (D&D, Pathfinder, Vampire, ...), video-games (wow, tm) and coding in Python.
 <!--
 **Vikka/Vikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
