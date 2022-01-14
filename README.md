@@ -23,6 +23,8 @@ I'm a french dad passionnate about my daughter ❤️, rpg (D&D, Pathfinder, Vam
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Vikka&left_color=green&right_color=red)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vikka&show_icons=true&theme=gotham" alt="dorianturba" />
 <!--
 **Vikka/Vikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
