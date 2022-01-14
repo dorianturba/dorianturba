@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi
+
+You are welcome on my Github profile!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Vikka&left_color=green&right_color=red)
+
 ### What I do
 
 🔭 I’m currently working on 
@@ -9,14 +13,15 @@ and [Terazur Engine](https://github.com/Vikka/TerazurEngine).
 
 🌱 I’m currently learning API design and development with FastAPI, SQLAlchemy, Alembic and python-jose.
 
+### Who I am
+
+I'm a french dad passionnate about my daughter ❤️, rpg (D&D, Pathfinder, Vampire, ...), video-games (wow, tm) and coding in Python.
+
 🧭 Where to find me: 
 [Linkedin](https://www.linkedin.com/in/dorian-turba/), 
 [StackOverflow](https://stackoverflow.com/users/6251742/dorian-turba),
 [Twitter](https://twitter.com/grenouille_py)
 
-### Who I am
-
-I'm a french dad passionnate about my daughter ❤️, rpg (D&D, Pathfinder, Vampire, ...), video-games (wow, tm) and coding in Python.
 <!--
 **Vikka/Vikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
