@@ -1,7 +1,6 @@
 ### 👋 Hi
 
 You are welcome on my Github profile!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Vikka&left_color=green&right_color=red)
 
 ### What I do
 
@@ -22,6 +21,8 @@ I'm a french dad passionnate about my daughter ❤️, rpg (D&D, Pathfinder, Vam
 [StackOverflow](https://stackoverflow.com/users/6251742/dorian-turba),
 [Twitter](https://twitter.com/grenouille_py)
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Vikka&left_color=green&right_color=red)
 <!--
 **Vikka/Vikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
