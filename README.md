@@ -20,7 +20,9 @@ and [Terazur Engine](https://github.com/Vikka/TerazurEngine).
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white" /> <img alt="Coverage" src="https://img.shields.io/badge/-Coverage-blue?&style=flat-square" /> <img alt="PyTest" src="https://img.shields.io/badge/-PyTest-blue?&style=flat-square" /> <img alt="PyLint" src="https://img.shields.io/badge/-PyLint-blue?&style=flat-square" /> <img alt="Dataclasses" src="https://img.shields.io/badge/-Dataclasses-green?&style=flat-square" /> <img alt="PEP20" src="https://img.shields.io/badge/-PEP20-green?&style=flat-square" /> <img alt="KISS" src="https://img.shields.io/badge/-KISS-green?&style=flat-square" />
 
 🎤My quotes:
-> Beginners's code is simple, true experts's simpler
+> "Beginners's code is simple, true experts's simpler"
+> 
+> "How to be a magician in 1 step: write no documentation"
 
 ### Who I am
 
@@ -33,18 +35,3 @@ I'm a french dad passionnate about my daughter ❤️, rpg (D&D, Pathfinder, Vam
 <a href="https://www.twitch.tv/le_pythonista_grenouille" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vikka&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true" alt="dorianturba" />
-  
-<!--
-**Vikka/Vikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
