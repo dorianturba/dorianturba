@@ -1,7 +1,5 @@
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Vikka&left_color=green&right_color=red)
-<a href="https://stackoverflow.com/users/6251742/dorian-turba?tab=reputation" target="_blank"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/6251742?label=Reputation"></a>
-
 
 ### 👋 Hi
 
