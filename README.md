@@ -11,7 +11,7 @@ You are welcome on my Github profile!
 a freelance project (API),
 [Meteor](https://github.com/Vikka/Meteor), 
 an Option Pricer, 
-and on a MUD engine ([what is a mud](https://en.wikipedia.org/wiki/MUD)).
+and a MUD engine ([what is a mud](https://en.wikipedia.org/wiki/MUD)).
 
 🌱 I’m currently learning API design and development with FastAPI, SQLAlchemy and Alembic.
 
