@@ -10,10 +10,10 @@ You are welcome on my Github profile!
 🔭 I’m currently working on 
 a freelance project (API),
 [Meteor](https://github.com/Vikka/Meteor), 
-Option Pricer, 
-and [Terazur Engine](https://github.com/Vikka/TerazurEngine).
+an Option Pricer, 
+and on a MUD engine ([what is a mud](https://en.wikipedia.org/wiki/MUD)).
 
-🌱 I’m currently learning API design and development with FastAPI, SQLAlchemy, Alembic and python-jose.
+🌱 I’m currently learning API design and development with FastAPI, SQLAlchemy and Alembic.
 
 🛠️ I love using: 
 
