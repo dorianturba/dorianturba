@@ -21,7 +21,7 @@ and a MUD engine ([what is a mud](https://en.wikipedia.org/wiki/MUD)).
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white" /> <img alt="Coverage" src="https://img.shields.io/badge/-Coverage-blue?&style=flat-square" /> <img alt="PyTest" src="https://img.shields.io/badge/-PyTest-blue?&style=flat-square" /> <img alt="PyLint" src="https://img.shields.io/badge/-PyLint-blue?&style=flat-square" /> <img alt="Dataclasses" src="https://img.shields.io/badge/-Dataclasses-green?&style=flat-square" /> <img alt="PEP20" src="https://img.shields.io/badge/-PEP20-green?&style=flat-square" /> <img alt="KISS" src="https://img.shields.io/badge/-KISS-green?&style=flat-square" />
 
 🎤My quotes:
-> "Beginners' code is simple, real experts' code is even simpler"
+> "Beginners' code is simple, Experts' code is even simpler"
 > 
 > "How to be a magician in 1 step: write no documentation"
 
