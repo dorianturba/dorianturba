@@ -7,14 +7,13 @@ You are welcome on my Github profile!
 
 ### What I do
 
-🔭 I’m currently working on 
-a freelance project (API),
+🔭 I’m currently working on a freelance project,
 [Tournesol](https://github.com/tournesol-app/tournesol) ([website](https://tournesol.app/about)),
-[Meteor](https://github.com/Vikka/Meteor), 
+a webapp based on the POC [Meteor](https://github.com/Vikka/Meteor), 
 an Option Pricer, 
 and a MUD engine ([what is a mud](https://en.wikipedia.org/wiki/MUD)).
 
-🌱 I’m currently learning API design and development with FastAPI, SQLAlchemy and Alembic.
+🌱 I’m currently learning on document processing optimization.
 
 🛠️ I love using: 
 
